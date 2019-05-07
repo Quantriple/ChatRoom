@@ -1,0 +1,5 @@
+#端口 项目名
+server:
+  port: 8080
+  servlet:
+    context-path: CR
