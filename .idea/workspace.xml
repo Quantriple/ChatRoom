@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="369c4e95-5a1c-4c9c-ad38-19084a57b692" name="Default" comment="主分支提交">
+    <list default="true" id="369c4e95-5a1c-4c9c-ad38-19084a57b692" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ChatRoom_Online/out/" />
@@ -19,9 +19,19 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2231">
-              <caret line="97" column="21" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="2116">
+              <caret line="98" column="19" lean-forward="false" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+              <folding>
+                <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+                <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,36 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="392">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DruidConfiguration.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/DruidConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/MyConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -73,10 +59,9 @@
       <file leaf-file-name="app.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/app.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="230">
               <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#363#364#0" expanded="true" />
                 <element signature="e#411#412#0" expanded="true" />
               </folding>
@@ -127,12 +112,12 @@
       <list>
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/readme.txt" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/pom.xml" />
-        <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/dao/DruidConfiguration.java" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/dao/VipMybatisConfiguration.java" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/app.java" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/DruidConfiguration.java" />
         <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/MyConfiguration.java" />
+        <option value="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" />
       </list>
     </option>
   </component>
@@ -258,32 +243,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatRoom_Online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatRoom_Online" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -319,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.app">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -707,6 +666,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="app" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app" />
+      <module name="ChatRoom_Online" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.app" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -724,12 +693,27 @@
       <workItem from="1557138730426" duration="608000" />
       <workItem from="1557192003311" duration="4007000" />
       <workItem from="1557236644199" duration="3497000" />
-      <workItem from="1557277668628" duration="12365000" />
+      <workItem from="1557277668628" duration="15484000" />
     </task>
+    <task id="LOCAL-00001" summary="主分支提交">
+      <created>1557299868027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557299868027</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dev">
+      <created>1557301713386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557301713386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27854000" />
+    <option name="totallyTimeSpent" value="30973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -755,8 +739,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -815,7 +799,8 @@
     <MESSAGE value="新建在线聊天项目" />
     <MESSAGE value="开发分支提交" />
     <MESSAGE value="主分支提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="主分支提交" />
+    <MESSAGE value="dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev" />
   </component>
   <component name="WindowStateProjectService">
     <state width="893" height="703" key="Git.Branch.Popup" />
@@ -830,7 +815,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2231">
           <caret line="97" column="21" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -854,9 +849,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +857,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2622">
           <caret line="114" column="50" lean-forward="false" selection-start-line="114" selection-start-column="50" selection-end-line="114" selection-end-column="50" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -888,7 +891,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2622">
           <caret line="114" column="50" lean-forward="false" selection-start-line="114" selection-start-column="50" selection-end-line="114" selection-end-column="50" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -904,7 +917,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2622">
           <caret line="114" column="50" lean-forward="false" selection-start-line="114" selection-start-column="50" selection-end-line="114" selection-end-column="50" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -920,7 +943,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -943,7 +976,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -981,17 +1024,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2231">
-          <caret line="97" column="21" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="2116">
+          <caret line="98" column="19" lean-forward="false" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+          <folding>
+            <marker date="1557302184919" expanded="true" signature="3872:4814" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3890:4801" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="3911:4203" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4066:4181" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4224:4782" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4382:4520" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4549:4760" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4581:4730" ph="..." />
+            <marker date="1557302184919" expanded="true" signature="4613:4697" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,25 +1072,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/app.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/MyConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,9 +1084,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/java/app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
