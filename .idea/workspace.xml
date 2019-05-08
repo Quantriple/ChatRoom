@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369c4e95-5a1c-4c9c-ad38-19084a57b692" name="Default" comment="主分支提交">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/app.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/DruidConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/java/db/MyConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/.idea/artifacts/ChatRoom_Online_war_exploded.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/artifacts/ChatRoom_Online_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/ChatRoom_Online.iml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/ChatRoom_Online.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/pom.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ChatRoom_Online/out/" />
     <ignored path="$PROJECT_DIR$/../ChatRoom_Online/target/" />
@@ -732,12 +724,12 @@
       <workItem from="1557138730426" duration="608000" />
       <workItem from="1557192003311" duration="4007000" />
       <workItem from="1557236644199" duration="3497000" />
-      <workItem from="1557277668628" duration="11874000" />
+      <workItem from="1557277668628" duration="12365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27363000" />
+    <option name="totallyTimeSpent" value="27854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -763,7 +755,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
