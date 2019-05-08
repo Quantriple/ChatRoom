@@ -3,3 +3,27 @@ server:
   port: 8080
   servlet:
     context-path: CR
+#datasource1 test
+datasource1:
+    name: dbsource1
+    driver: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.99.220.129:3306/mysql?serverTimezone=GMT%2B8
+    username: root
+    password: root@1234
+    initialSize: 3
+    minIdle: 3
+    maxActive: 15
+    maxWait: 5000
+    timeBetweenEvictionRunsMillis: 90000
+    testOnBorrow: false
+    testOnReturn: false
+    minEvictableIdleTimeMillis: 1800000
+    testWhileIdle: true
+    validationQuery: select 1 from dual
+#mybits
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+
+
+
+
