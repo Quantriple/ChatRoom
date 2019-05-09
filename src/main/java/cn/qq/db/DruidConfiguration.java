@@ -1,4 +1,4 @@
-package db;
+package cn.qq.db;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.springframework.beans.factory.annotation.Value;
@@ -15,19 +15,19 @@ public class DruidConfiguration {
 
     @Bean(name = "datasource1")
     public DataSource dataSource1(
-            @Value("${datasorce1.driver}") String driver,
-            @Value("${datasorce1.url}") String url,
-            @Value("${datasorce1.username}") String username,
-            @Value("${datasorce1.password}") String password,
-            @Value("${datasorce1.minIdle}") int minIdle,
-            @Value("${datasorce1.maxActive}") int maxActive,
-            @Value("${datasorce1.initialSize}") int initialSize,
-            @Value("${datasorce1.timeBetweenEvictionRunsMillis}") long timeBetweenEvictionRunsMillis,
-            @Value("${datasorce1.minEvictableIdleTimeMillis}") long minEvictableIdleTimeMillis,
-            @Value("${datasorce1.validationQuery}") String validationQuery,
-            @Value("${datasorce1.testWhileIdle}") boolean testWhileIdle,
-            @Value("${datasorce1.testOnBorrow}") boolean testOnBorrow,
-            @Value("${datasorce1.testOnReturn}") boolean testOnReturn) {
+            @Value("${datasource1.driver}") String driver,
+            @Value("${datasource1.url}") String url,
+            @Value("${datasource1.username}") String username,
+            @Value("${datasource1.password}") String password,
+            @Value("${datasource1.minIdle}") int minIdle,
+            @Value("${datasource1.maxActive}") int maxActive,
+            @Value("${datasource1.initialSize}") int initialSize,
+            @Value("${datasource1.timeBetweenEvictionRunsMillis}") long timeBetweenEvictionRunsMillis,
+            @Value("${datasource1.minEvictableIdleTimeMillis}") long minEvictableIdleTimeMillis,
+            @Value("${datasource1.validationQuery}") String validationQuery,
+            @Value("${datasource1.testWhileIdle}") boolean testWhileIdle,
+            @Value("${datasource1.testOnBorrow}") boolean testOnBorrow,
+            @Value("${datasource1.testOnReturn}") boolean testOnReturn) {
         DruidDataSource druidDataSource = new DruidDataSource();
         druidDataSource.setDriverClassName(driver);
         druidDataSource.setUrl(url);

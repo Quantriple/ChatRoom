@@ -2,7 +2,7 @@
 server:
   port: 8080
   servlet:
-    context-path: CR
+    context-path: /CR
 #datasource1 test
 datasource1:
     name: dbsource1
@@ -23,6 +23,7 @@ datasource1:
 #mybits
 mybatis:
   mapper-locations: classpath:mapping/*.xml
+  type-aliases-package: model.entity
 
 
 
