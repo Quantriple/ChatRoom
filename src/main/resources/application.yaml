@@ -23,7 +23,7 @@ datasource1:
 #mybits
 mybatis:
   mapper-locations: classpath:mapping/*.xml
-  type-aliases-package: model.entity
+  type-aliases-package: cn.qq.entity
 
 
 
