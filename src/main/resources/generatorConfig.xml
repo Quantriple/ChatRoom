@@ -34,3 +34,4 @@
         <table tableName="enjoy_user" domainObjectName="Users" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
     </context>
 </generatorConfiguration>
+<!--这个是例子-->
