@@ -21,7 +21,7 @@ datasource1:
     testWhileIdle: true
     validationQuery: select 1 from dual
 #mybits
-mybatis:
+mybatis1:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: cn.qq.entity
 
