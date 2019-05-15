@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369c4e95-5a1c-4c9c-ad38-19084a57b692" name="Default" comment="dev">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/.idea/misc.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/ChatRoom_Online.iml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/ChatRoom_Online.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/pom.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/application.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/generatorConfig.xml" afterPath="$PROJECT_DIR$/../ChatRoom_Online/src/main/resources/generatorConfig.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ChatRoom_Online/out/" />
     <ignored path="$PROJECT_DIR$/../ChatRoom_Online/target/" />
@@ -1149,7 +1144,7 @@
       <workItem from="1557798742315" duration="692000" />
       <workItem from="1557832590230" duration="3003000" />
       <workItem from="1557881866475" duration="15236000" />
-      <workItem from="1557917329633" duration="1467000" />
+      <workItem from="1557917329633" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="主分支提交">
       <created>1557299868027</created>
@@ -1201,7 +1196,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66740000" />
+    <option name="totallyTimeSpent" value="67107000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
