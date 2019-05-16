@@ -6,7 +6,7 @@ server:
 #datasource1 test
 datasource1:
     name: dbsource1
-    driver: com.mysql.jdbc.Driver
+    driver: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://47.99.220.129:3306/mysql?serverTimezone=GMT%2B8
     username: root
     password: root@1234
@@ -21,7 +21,7 @@ datasource1:
     testWhileIdle: true
     validationQuery: select 1 from dual
 #mybits
-mybatis1:
+mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: cn.qq.entity
 
