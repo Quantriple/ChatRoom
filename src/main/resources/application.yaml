@@ -3,6 +3,7 @@ server:
   port: 8080
   servlet:
     context-path: /CR
+
 #datasource1 test
 datasource1:
     name: dbsource1
@@ -24,6 +25,16 @@ datasource1:
 mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: cn.qq.entity
+#静态资源路径
+spring:
+  mvc:
+    static-path-pattern: /static
+#日志配置
+logging:
+  config: classpath:logback-spring.xml
+
+
+
 
 
 
